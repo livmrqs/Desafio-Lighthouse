@@ -181,6 +181,7 @@ Desafio-Lighthouse/
 - Segmentação de clientes estratégicos
 - Previsão de demanda
 - Sistema de recomendação funcional
+- Insights e resultados visuais: https://drive.google.com/file/d/1Aa2t5OWXn5w23H19-tvM-1r11wSkaqQN/view?usp=sharing
 - ----
 ## 📊 Visão Final
 ```
